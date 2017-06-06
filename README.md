@@ -1,4 +1,4 @@
-# SAM-Smart-Assistance-and-Management-Calculator
+# SAM (Smart Assistance and Management) Calculator
 One word... Math! Sum's getting tedious and less student friendly? Then here's the deal. SAM's Calculator. The calculator's engine can process long chains of equations like 246^23+324-542(32)*453/3 (that's enough to make one dizzy isn't it?). So happy Math! With the latest update, you can now carry on with Trigonometric ratios and exponents...
 ![Alt text](http://2.bp.blogspot.com/-fn7uZjeTUtA/VhE5OjIk-0I/AAAAAAAAB2E/rzMWgzmtHgw/s320/Capture93.PNG "")
 
