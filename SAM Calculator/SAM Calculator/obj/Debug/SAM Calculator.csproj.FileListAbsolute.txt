@@ -1,0 +1,15 @@
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\bin\Debug\SAM Calculator.exe.config
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\bin\Debug\SAM Calculator.exe
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\bin\Debug\SAM Calculator.pdb
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\bin\Debug\Interop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\bin\Debug\AxInterop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM Calculator.csprojResolveAssemblyReference.cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\Interop.MSScriptControl.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\Interop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\AxInterop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM Calculator.csproj.ResolveComReference.cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM_Calculator.Form1.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM_Calculator.Properties.Resources.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM Calculator.csproj.GenerateResource.Cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM Calculator.exe
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Calculator\SAM Calculator\obj\Debug\SAM Calculator.pdb
